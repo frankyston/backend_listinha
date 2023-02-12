@@ -58,8 +58,14 @@ Informações de mockup, fonte e assets estão disponíveis no Figma.
 
 # 4. Vídeos
 
+[#1. Live apresentação do projeto](https://www.youtube.com/watch?v=4-aDp3oagEM)
+
 [#2. Iniciando os projetos](https://youtu.be/Y9QwJewv50w)
+
 [#3. Configurando o Tema do App de maneira correta](https://www.youtube.com/watch?v=-x6rbHTTlC0)
+
 [#4. Decisões de componentização](https://www.youtube.com/watch?v=Nt2d_WBEADM)
+
 [#5. Navegação Modular](https://www.youtube.com/watch?v=idaCfJJIyyg)
+
 [#6. Refatoração](https://www.youtube.com/watch?v=YdOuowFzdX8)
